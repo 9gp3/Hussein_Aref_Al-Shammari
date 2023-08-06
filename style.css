@@ -74,6 +74,7 @@ img {
   width: 150px;
 }
 .info {
+    font-size: medium;
   margin: 0 0 10px 10px;
   display: block;
   width: 200px;
